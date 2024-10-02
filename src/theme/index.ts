@@ -229,9 +229,9 @@ const theme = createTheme({
       fontSize: "14px",
       lineHeight: "21px",
     },
-    button16: {
-      fontFamily: fontFamily?.switzer,
-      fontWeight: 600,
+    button: {
+      fontFamily: fontFamily.switzer,
+      fontWeight: 500,
       fontSize: "16px",
     },
   },
